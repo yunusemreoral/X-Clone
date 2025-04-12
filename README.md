@@ -1,7 +1,7 @@
 # X-Clone 🐦
 
 <li>Bu proje Google Firebase kullanarak Email/Şifre girişi entegre edilerek hazırlanmıştır.</li>
-<li>Login,Register,Kullanıcı güncelleme ve çıkış yapma özellikleri mevcuttur.</li>
+<li>Login,Register,Kullanıcı güncelleme ve çıkış yapma seçenekleri vardır.</li>
 <li>Tweet ve resim ekleme,düzenleme,silme,beğenme özellikleri mevcuttur.</li>
 
 # Kullanılan Teknolojiler 🎨
